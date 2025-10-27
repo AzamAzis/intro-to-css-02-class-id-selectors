@@ -1,0 +1,16 @@
+/* Add CSS Styling */
+.background-lightpink {
+  background: rgb(255, 182, 193);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#number-2 {
+  color: rgba(0, 0, 255, 0.998);
+  font-size: 36px;
+}
+.size {
+  font-size: 24px;
+}
+#number-4 {
+  background: rgb(144, 238, 144);
+  font-weight: bold;
+}
